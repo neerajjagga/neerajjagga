@@ -1,7 +1,7 @@
 
 ![cool](https://i.postimg.cc/C5Fr46j7/photo-2023-11-08-23-47-03.jpg)
 
-# Hi, I'm Neeraj Jagga! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="40" height="40" />  
+# Hi, I'm Neeraj Jagga!  
 <!--<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWwzbjFkcXZsOXBjdW1iemRmNWhoZ3FxcmttNmt1ZHF4OXg4cXMwciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="200" style="border-radius: 50%;">-->
 
 <p><em> 
